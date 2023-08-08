@@ -1,4 +1,4 @@
-from calc import *
+from calculator_module import *
 
 print("MENU:")
 print("1.Add")
